@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/mudit/ENPM808x/Week6/valgrind_ex/cpp-boilerplate-v2/build/app",
+  "command": "/usr/bin/c++  -I/home/mudit/ENPM808x/Week6/valgrind_ex/cpp-boilerplate-v2/include -std=gnu++14 -o CMakeFiles/shell-app.dir/AnalogSensor.cpp.o -c /home/mudit/ENPM808x/Week6/valgrind_ex/cpp-boilerplate-v2/app/AnalogSensor.cpp",
+  "file": "/home/mudit/ENPM808x/Week6/valgrind_ex/cpp-boilerplate-v2/app/AnalogSensor.cpp",
+  "output": "app/CMakeFiles/shell-app.dir/AnalogSensor.cpp.o"
+},
+{
+  "directory": "/home/mudit/ENPM808x/Week6/valgrind_ex/cpp-boilerplate-v2/build/app",
+  "command": "/usr/bin/c++  -I/home/mudit/ENPM808x/Week6/valgrind_ex/cpp-boilerplate-v2/include -std=gnu++14 -o CMakeFiles/shell-app.dir/main.cpp.o -c /home/mudit/ENPM808x/Week6/valgrind_ex/cpp-boilerplate-v2/app/main.cpp",
+  "file": "/home/mudit/ENPM808x/Week6/valgrind_ex/cpp-boilerplate-v2/app/main.cpp",
+  "output": "app/CMakeFiles/shell-app.dir/main.cpp.o"
+}
+]
