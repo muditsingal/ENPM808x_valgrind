@@ -48,4 +48,7 @@ suppressed: 0 bytes in 0 blocks
 
 If we don't comment the line: `target_link_options(shell-app PUBLIC --static)` in CMakeLists.txt in app, we get 1 main error which is due to the uninitialized variable in app/main.cpp. However, we don't get the memory leak error. This is because in order to accurately detect memory leaks there should be atleast one dynamically linked library file. If we have dynamically linked libraries in project, valgrind can preload the library files and give accurate analysis.
 
+### Valgrind output after fixing issues
+
+ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
 

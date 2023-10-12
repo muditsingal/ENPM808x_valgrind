@@ -1,0 +1,14 @@
+==106995== Memcheck, a memory error detector
+==106995== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==106995== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==106995== Command: ./build/app/shell-app
+==106995== 
+Averaged sensor reading: 10
+==106995== 
+==106995== HEAP SUMMARY:
+==106995==     in use at exit: 0 bytes in 0 blocks
+==106995==   total heap usage: 4 allocs, 4 frees, 76,844 bytes allocated
+==106995== 
+==106995== All heap blocks were freed -- no leaks are possible
+==106995== 
+==106995== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
